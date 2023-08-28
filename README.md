@@ -6,6 +6,8 @@ Library of FRAM Models as used in publications and papers.
 * Upload/Open the file from the FMV application from your downloads folder.
 
 ## Examples used in instructions and demonstrations
+<details>
+  <summary>Click to expand!</summary>
 
 * [Prepare Work example](https://github.com/Zerprize-Limited/FMV_Community_Edition/blob/standard/Resources/prepare_work_example.xfmv)  
   Used in the Instructions to explain background and foreground functions. The coupling names are for convenience and not from the original source.
@@ -25,8 +27,11 @@ Library of FRAM Models as used in publications and papers.
 
 * [Cup Noodles](https://github.com/Zerprize-Limited/FMV_Community_Edition/blob/standard/Resources/Cup%20Noodles.xfmv)  
   Commonly used in tutorials as a task for building a first FRAM model. One example, variation is expected among participants.
+</details>
 
 ## Examples used in publications
+<details>
+  <summary>Click to expand!</summary>
 
 ### Safety-II in Practice: Developing the Resilience Potentials
 [Routledge](https://www.routledge.com/Safety-II-in-Practice-Developing-the-Resilience-Potentials/Hollnagel/p/book/9781138708921), [ResearchGate](https://www.researchgate.net/publication/320059181_Safety-II_in_Practice_Developing_the_Resilience_Potentials)
@@ -37,4 +42,4 @@ Library of FRAM Models as used in publications and papers.
 ### Optimising the Performance of Complex Sociotechnical Systems in High-Stress, High-Speed Environments: The Formula 1 Pit Stop Test Case 
 [ResearchGate](https://www.researchgate.net/publication/357045761_Optimising_the_Performance_of_Complex_Sociotechnical_Systems_in_High-Stress_High-Speed_Environments_The_Formula_1_Pit_Stop_Test_Case), [Applied Sciences](https://www.mdpi.com/1404280) 
 * [F1 Pit Stop](https://github.com/Zerprize-Limited/FMV_Community_Edition/blob/standard/Resources/F1Pit%20Stop%20WAD%20231.xfmv) 
-
+</details>
