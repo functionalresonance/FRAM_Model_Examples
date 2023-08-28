@@ -38,6 +38,11 @@ Library of FRAM Models as used in publications and papers.
 * [Safety-II Figure 6.4](https://github.com/Zerprize-Limited/FMV_Community_Edition/blob/standard/Resources/Safety-II%20Figure%206.4.xfmv) The basic model of the four potentials, using the FRAM.  
 * [Safety-II Figure 6.5](https://github.com/Zerprize-Limited/FMV_Community_Edition/blob/standard/Resources/Safety-II%20Figure%206.5.xfmv)  A detailed FRAM model of the function `<Learn>`.  
 * [Safety-II Figure 6.6](https://github.com/Zerprize-Limited/FMV_Community_Edition/blob/standard/Resources/Safety-II%20Figure%206.6.xfmv)  A detailed FRAM model of the resilience potentials.
+</details>
+
+## Examples used in research papers
+<details>
+  <summary>Click to expand!</summary>
 
 ### Optimising the Performance of Complex Sociotechnical Systems in High-Stress, High-Speed Environments: The Formula 1 Pit Stop Test Case 
 [ResearchGate](https://www.researchgate.net/publication/357045761_Optimising_the_Performance_of_Complex_Sociotechnical_Systems_in_High-Stress_High-Speed_Environments_The_Formula_1_Pit_Stop_Test_Case), [Applied Sciences](https://www.mdpi.com/1404280) 
