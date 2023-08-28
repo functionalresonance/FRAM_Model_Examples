@@ -9,7 +9,7 @@ Library of FRAM Models as used in publications and papers.
 <details>
   <summary>Click to expand!</summary>
 
-* [Prepare Work example](https://github.com/Zerprize-Limited/FMV_Community_Edition/blob/standard/Resources/prepare_work_example.xfmv)  
+* [Prepare Work example](https://github.com/functionalresonance/FRAM_Model_Examples/blob/main/Demonstrations/prepare_work_example.xfmv)  
   Used in the Instructions to explain background and foreground functions. The coupling names are for convenience and not from the original source.
 
 * [Leave Harbour example](https://github.com/Zerprize-Limited/FMV_Community_Edition/blob/standard/Resources/leave_harbour_example.xfmv)  
